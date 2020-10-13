@@ -1,0 +1,1 @@
+Enter a numbers while number is not equal to 0: 10
