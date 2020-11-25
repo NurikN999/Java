@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PerimeterOfShape
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=int\ distance(int,\ int,\ int,\ int)
+comment3.params=a\ b\ c\ d
+comment3.target=int\ perimeter(int,\ int,\ int,\ int)
+numComments=4
